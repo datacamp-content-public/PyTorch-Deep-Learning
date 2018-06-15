@@ -1,6 +1,7 @@
 ---
-title: Test
-description: Test
+  title: "Test"
+  description: "Test"
+  v2: true
 
 ---
 ## Sample exercise
@@ -11,29 +12,54 @@ lang: python
 xp: 100
 skills: 2
 key: b59c285689
+
+
+
 ```
 
 
-`@instructions`
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: 50
+
+key: 23b6d4d521
+
+
+
+```
+
+ddsdf
+
 
 `@hint`
+fdsfds
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
+`@possible_answers`
+fdsafdsaf
 
-```
+`@feedbacks`
+sdafdsafdsafsdaf
 
-`@sct`
-```{python}
 
-```
+
